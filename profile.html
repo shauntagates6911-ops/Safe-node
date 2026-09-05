@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Profile Dashboard</title>
+
+  <script>
+    if (localStorage.getItem("loggedIn") !== "true") {
+      window.location.href = "/404-user.html";
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 40px;
+    }
+    h1 {
+      color: #1e3a8a;
+    }
+    body {
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Your Profile Dashboard</h1>
+  <p>Welcome back, user!</p>
+</body>
+</html>
