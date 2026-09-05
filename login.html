@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Safe-node login</title>
+</head>
+<body>
+  <h1>Login to Safe node</h1>
+  <p>A basic site for wikis and information.</p>
+
+  <input type="text" placeholder="Username">
+<input type="text" placeholder="Email">
+
+<style>
+  body {
+    font-family: sans-serif;
+  }
+</style>
+  <button>LOGIN 🎯</button>
+  <script>
+    button onclick=
+fetch("https://www.emailjs.com/send"),
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({
+    to: "noreply@codeberg.org",
+    subject: "Hello",
+    message: "Your otp has been sent. The verification code is 247924."
+  })
+});
+</script>
+<script src="https://cdn.emailjs.com/sdk/3.2/email.min.js"></script>
+<script>
+emailjs.send("service_id", "template_id", {
+  to_email: "noreply@codeberg.org",
+  message: "YOUR OTP HAS BEEN SENT. 247924!"
+});
+</script>
