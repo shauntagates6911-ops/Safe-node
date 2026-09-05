@@ -1,0 +1,210 @@
+{
+  "account": {
+    "roturUserId": "3523c699-ed9e-4843-ab84-18ff398da7f5",
+    "username": "Romuket"
+  },
+  "activity": [],
+  "agreement": {},
+  "comments": [
+    {
+      "comment": {
+        "author": "Romuket",
+        "authorId": "3523c699-ed9e-4843-ab84-18ff398da7f5",
+        "content": "Hi I’m on mistwarp",
+        "created": 1788403267341,
+        "id": "cF2HvlaKxo4NiQVEQ",
+        "kind": "comment",
+        "parent": ""
+      },
+      "source": "profile-mistwarp"
+    }
+  ],
+  "exportedAt": 1788403588213,
+  "gameData": {
+    "entitlements": [],
+    "inventory": {
+      "items": {},
+      "revision": 0,
+      "updatedAt": 0
+    },
+    "saves": []
+  },
+  "notifications": [
+    {
+      "actor": "Mist",
+      "created": 1787429471675,
+      "id": "nR7slwWEHzl0z",
+      "platform": "mistwarp",
+      "platform_data": {
+        "actor": "Mist",
+        "newsId": "nwtxWJFZun5Eqf",
+        "title": "Spaces, reviews and the roadmap",
+        "type": "news"
+      },
+      "read": false,
+      "type": "news"
+    },
+    {
+      "actor": "Mist",
+      "created": 1787393623031,
+      "id": "nvUYvspT280UC",
+      "platform": "mistwarp",
+      "platform_data": {
+        "actor": "Mist",
+        "newsId": "nwUlQ4O2xurupH",
+        "title": "Project pricing updates",
+        "type": "news"
+      },
+      "read": false,
+      "type": "news"
+    },
+    {
+      "actor": "Mist",
+      "created": 1786386446962,
+      "id": "nCxL1x8dYWHqv",
+      "newsId": "nwMHxphA5nMAa3",
+      "read": true,
+      "title": "User profile improvements",
+      "type": "news"
+    }
+  ],
+  "ok": true,
+  "profile": {
+    "bio": "",
+    "commentsOff": true,
+    "created": 1786064176386,
+    "featuredProject": "",
+    "followers": [],
+    "following": [],
+    "loves": [],
+    "userId": "3523c699-ed9e-4843-ab84-18ff398da7f5",
+    "username": "Romuket"
+  },
+  "projects": [],
+  "safety": {
+    "blocked": [],
+    "muted": []
+  },
+  "settings": {
+    "customThemes": [
+      {
+        "accent": {
+          "colors": [
+            {
+              "color": "#00d6e1",
+              "position": 0
+            },
+            {
+              "color": "#0c00de",
+              "position": 50
+            }
+          ],
+          "direction": "45"
+        },
+        "appearance": {
+          "styles": {
+            "tab-looks": "icon-only",
+            "tab-style": "scratchbox",
+            "window-style": "macos"
+          }
+        },
+        "author": "User",
+        "blocks": "three",
+        "createdAt": "2026-09-03T02:32:22.836Z",
+        "description": "Hi",
+        "fonts": {
+          "google": [],
+          "history": [],
+          "system": []
+        },
+        "gui": "dark",
+        "menuBarAlign": "center",
+        "menuBarForeground": null,
+        "name": "Blue cyan",
+        "sourceId": null,
+        "uuid": "custom-theme-1788402742837-1t3083ww7",
+        "wallpaper": {
+          "darkness": 0,
+          "gridVisible": true,
+          "history": [],
+          "opacity": 0.3,
+          "url": ""
+        }
+      }
+    ],
+    "settings": {
+      "menuBar": {
+        "accent": true,
+        "compactSave": false,
+        "features": {
+          "autosave_enabled": false,
+          "autosave_interval": 5,
+          "autosave_notifications": true,
+          "autosave_only_when_changed": true,
+          "menu_labels": "both",
+          "show_block_count": true,
+          "show_complexity_score": false,
+          "show_costume_count": false,
+          "show_sound_count": false
+        },
+        "hidden": [],
+        "order": {},
+        "text": "auto"
+      },
+      "notificationPreferences": {},
+      "rotur": {
+        "activitySharing": "ask",
+        "includeEditDuration": true,
+        "presenceEnabled": true
+      },
+      "updatedAt": 1788403517403,
+      "version": 1
+    },
+    "theme": {
+      "inlineCustomTheme": {
+        "accent": {
+          "colors": [
+            {
+              "color": "#00d6e1",
+              "position": 0
+            },
+            {
+              "color": "#0c00de",
+              "position": 50
+            }
+          ],
+          "direction": "45"
+        },
+        "appearance": {
+          "styles": {
+            "tab-looks": "icon-only",
+            "tab-style": "scratchbox",
+            "window-style": "macos"
+          }
+        },
+        "author": "User",
+        "blocks": "three",
+        "createdAt": "2026-09-03T02:32:22.836Z",
+        "description": "Hi",
+        "fonts": {
+          "google": [],
+          "history": [],
+          "system": []
+        },
+        "gui": "dark",
+        "menuBarAlign": "center",
+        "menuBarForeground": null,
+        "name": "Blue cyan",
+        "sourceId": null,
+        "uuid": "custom-theme-1788403516587-c13ohl9hd",
+        "wallpaper": {
+          "darkness": 0,
+          "gridVisible": true,
+          "history": [],
+          "opacity": 0.3,
+          "url": ""
+        }
+      }
+    }
+  }
+}
